@@ -6,6 +6,8 @@
 ![Material Design](https://img.shields.io/badge/UI-Material%20Components-6200EE?logo=materialdesign&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-En%20producción-green)
 
+> 🔄 Este proyecto forma parte de una implementación doble (Web + Android) conectada a Firebase, manteniendo la misma lógica de autenticación y persistencia de datos.
+
 Aplicación Android de gestión de usuarios y profesiones con autenticación integrada mediante Firebase.  
 Proyecto CRUD modular y funcional, desarrollado en Java con Android Studio, Firebase Authentication y Firestore.
 
@@ -17,6 +19,7 @@ Proyecto CRUD modular y funcional, desarrollado en Java con Android Studio, Fire
 Permite a los usuarios autenticarse con **alias + contraseña** y realizar operaciones **CRUD** sobre las entidades disponibles, todo de forma segura y privada mediante **UID**.
 
 La app es totalmente funcional, modular y escalable, siguiendo buenas prácticas de organización y con una interfaz moderna basada en **Material Design**.
+
 
 ---
 ## 📷 Capturas de Pantalla
