@@ -1,4 +1,10 @@
 # 📱 MiAppCrudFirebase
+![Android Studio](https://img.shields.io/badge/Android-Android%20Studio-3DDC84?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-ffca28?logo=firebase&logoColor=black)
+![Material Design](https://img.shields.io/badge/UI-Material%20Components-6200EE?logo=materialdesign&logoColor=white)
+![Estado](https://img.shields.io/badge/Estado-En%20producción-green)
+
 
 Aplicación Android de gestión de usuarios y profesiones con autenticación integrada mediante Firebase. Proyecto CRUD modular y funcional, desarrollado en Java con Android Studio, Firebase Authentication y Firestore.
 
@@ -115,7 +121,6 @@ Desarrollador Web & Móvil Junior
 📍 Alicante, España  
 💼 [LinkedIn](https://www.linkedin.com/in/nilsonochoa-dev/)  
 📧 nilson-ochoamartinez@hotmail.com  
-📱 +34 618 766 660
 
 ---
 
