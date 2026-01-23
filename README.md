@@ -6,7 +6,10 @@
 ![Material Design](https://img.shields.io/badge/UI-Material%20Components-6200EE?logo=materialdesign&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-En%20producción-green)
 
-> 🔄 Este proyecto forma parte de una implementación doble (Web + Android) conectada a Firebase, manteniendo la misma lógica de autenticación y persistencia de datos.
+> 🔄 Este proyecto forma parte de una implementación doble (Web + Android) conectada a Firebase, manteniendo la misma lógica de autenticación y persistencia de datos.  
+> Ambos proyectos comparten la misma base de datos en **Firestore**, permitiendo persistencia y consistencia de datos entre **Web y Android**.
+
+
 ---
 
 ## 🚀 Descripción del Proyecto
