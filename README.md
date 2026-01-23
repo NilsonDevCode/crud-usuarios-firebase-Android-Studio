@@ -1,20 +1,22 @@
 # 📱 MiAppCrudFirebase
+
 ![Android Studio](https://img.shields.io/badge/Android-Android%20Studio-3DDC84?logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-ffca28?logo=firebase&logoColor=black)
 ![Material Design](https://img.shields.io/badge/UI-Material%20Components-6200EE?logo=materialdesign&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-En%20producción-green)
 
-
-Aplicación Android de gestión de usuarios y profesiones con autenticación integrada mediante Firebase. Proyecto CRUD modular y funcional, desarrollado en Java con Android Studio, Firebase Authentication y Firestore.
+Aplicación Android de gestión de usuarios y profesiones con autenticación integrada mediante Firebase.  
+Proyecto CRUD modular y funcional, desarrollado en Java con Android Studio, Firebase Authentication y Firestore.
 
 ---
 
 ## 🚀 Descripción del Proyecto
 
-MiAppCrudFirebase es una app Android nativa diseñada para registrar, autenticar y gestionar usuarios asociados a profesiones. Permite a los usuarios autenticarse con alias y contraseña, y realizar operaciones CRUD sobre las entidades disponibles, todo de forma segura y privada mediante UID.
+**MiAppCrudFirebase** es una app Android nativa diseñada para registrar, autenticar y gestionar usuarios asociados a profesiones.  
+Permite a los usuarios autenticarse con **alias + contraseña** y realizar operaciones **CRUD** sobre las entidades disponibles, todo de forma segura y privada mediante **UID**.
 
-La app es totalmente funcional, modular y escalable, cumpliendo buenas prácticas de arquitectura y con una interfaz moderna basada en Material Design 3.
+La app es totalmente funcional, modular y escalable, siguiendo buenas prácticas de organización y con una interfaz moderna basada en **Material Design**.
 
 ---
 
@@ -26,29 +28,27 @@ La app es totalmente funcional, modular y escalable, cumpliendo buenas práctica
 - **Material Components for Android**
 - **ConstraintLayout**
 - **RecyclerView**
-- **Módulo login/register + CRUD completo**
 
 ---
 
 ## 🔐 Funcionalidades principales
 
-- Registro de usuarios con alias, nombre y contraseña
-- Inicio de sesión con validación y persistencia por UID
+- Registro de usuarios con **alias, nombre y contraseña**
+- Inicio de sesión con validación y persistencia por **UID**
 - CRUD de profesiones:
-    - Crear, ver, editar y eliminar profesiones
+  - Crear, ver, editar y eliminar profesiones
 - CRUD de usuarios:
-    - Crear, ver, editar y eliminar usuarios
-    - Asignación de profesiones mediante Spinner
-    - Creación de nueva profesión directamente desde el Spinner
-- Carga dinámica de profesiones guardadas en Firestore
+  - Crear, ver, editar y eliminar usuarios
+  - Asignación de profesiones mediante **Spinner**
+  - Creación de nueva profesión directamente desde el Spinner
+- Carga dinámica de profesiones desde **Firestore**
 - Validaciones visuales con `TextInputLayout.setError()`
 - Arquitectura modular y organizada: `activities`, `adapters`, `models`, `utils`, `firebase`
 - App protegida por UID: cada usuario solo ve sus propios datos
 
 ---
 
-## 📂 Estructura de Carpetas
-
+## 📂 Estructura del proyecto
 ```
 MiAppCrudFirebase/
 ├── app/src/main/java/com/nilson/miappfirebase/
@@ -61,21 +61,33 @@ MiAppCrudFirebase/
 ├── .gitignore
 ├── README.md
 ```
-
 ---
 
 ## 📷 Capturas de Pantalla
 
-| Registro                   | CRUD Profesiones            |
-|----------------------------|-----------------------------|
-| ![](./screenshots/Registro.png) | ![](./screenshots/Crud.png) |
-|                            |                             |
->
-| LoginActivity                |
-|------------------------------|
-| ![](./screenshots/Login.png) |
-|             
->
+<table align="center">
+  <tr>
+    <td align="center"><b>Registro</b></td>
+    <td align="center"><b>CRUD Profesiones</b></td>
+    <td align="center"><b>Login</b></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/Registro.png" alt="Pantalla de Registro" width="260"/></td>
+    <td><img src="./screenshots/Crud.png" alt="CRUD de Profesiones" width="260"/></td>
+    <td><img src="./screenshots/Login.png" alt="Pantalla de Login" width="260"/></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## ✅ Cómo usar este proyecto
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/NILSONCURSODAM/crud-usuarios-firebase-Android-Studio.git
+
 
 
 ## ✅ Cómo usar este proyecto
