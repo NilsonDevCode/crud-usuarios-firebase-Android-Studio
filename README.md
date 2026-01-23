@@ -85,14 +85,6 @@ MiAppCrudFirebase/
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/NILSONCURSODAM/crud-usuarios-firebase-Android-Studio.git
-
-
-
-## ✅ Cómo usar este proyecto
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/NILSONCURSODAM/crud-usuarios-firebase-Android-Studio.git
    ```
 
 2. Abre el proyecto en Android Studio.
