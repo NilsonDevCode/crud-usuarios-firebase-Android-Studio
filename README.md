@@ -7,10 +7,6 @@
 ![Estado](https://img.shields.io/badge/Estado-En%20producción-green)
 
 > 🔄 Este proyecto forma parte de una implementación doble (Web + Android) conectada a Firebase, manteniendo la misma lógica de autenticación y persistencia de datos.
-
-Aplicación Android de gestión de usuarios y profesiones con autenticación integrada mediante Firebase.  
-Proyecto CRUD modular y funcional, desarrollado en Java con Android Studio, Firebase Authentication y Firestore.
-
 ---
 
 ## 🚀 Descripción del Proyecto
