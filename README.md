@@ -19,18 +19,24 @@ Permite a los usuarios autenticarse con **alias + contraseña** y realizar opera
 La app es totalmente funcional, modular y escalable, siguiendo buenas prácticas de organización y con una interfaz moderna basada en **Material Design**.
 
 ---
+## 📷 Capturas de Pantalla
 
-## 🛠️ Tecnologías utilizadas
+<table align="center">
+  <tr>
+    <td align="center"><b>Registro</b></td>
+    <td align="center"><b>CRUD Profesiones</b></td>
+    <td align="center"><b>Login</b></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/Registro.png" alt="Pantalla de Registro" width="260"/></td>
+    <td><img src="./screenshots/Crud.png" alt="CRUD de Profesiones" width="260"/></td>
+    <td><img src="./screenshots/Login.png" alt="Pantalla de Login" width="260"/></td>
+  </tr>
+</table>
 
-- **Android Studio (Java)**
-- **Firebase Authentication**
-- **Cloud Firestore**
-- **Material Components for Android**
-- **ConstraintLayout**
-- **RecyclerView**
+<br/>
 
 ---
-
 ## 🔐 Funcionalidades principales
 
 - Registro de usuarios con **alias, nombre y contraseña**
@@ -63,22 +69,14 @@ MiAppCrudFirebase/
 ```
 ---
 
-## 📷 Capturas de Pantalla
+## 🛠️ Tecnologías utilizadas
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Registro</b></td>
-    <td align="center"><b>CRUD Profesiones</b></td>
-    <td align="center"><b>Login</b></td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/Registro.png" alt="Pantalla de Registro" width="260"/></td>
-    <td><img src="./screenshots/Crud.png" alt="CRUD de Profesiones" width="260"/></td>
-    <td><img src="./screenshots/Login.png" alt="Pantalla de Login" width="260"/></td>
-  </tr>
-</table>
-
-<br/>
+- **Android Studio (Java)**
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Material Components for Android**
+- **ConstraintLayout**
+- **RecyclerView**
 
 ---
 
